@@ -1,0 +1,7 @@
+# Install PyTorch separately, matched to your CUDA driver:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu126
+# Verify torch.cuda.is_available() is True before training.
+nnunetv2
+SimpleITK
+nibabel
+numpy
