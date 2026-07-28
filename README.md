@@ -177,7 +177,7 @@ presentation/                   slide deck summarising the project
 
 **Framework:** [nnU-Net](https://github.com/MIC-DKFZ/nnUNet) (Isensee et al., *Nature Methods* 2021), Apache 2.0.
 
-**Approach:** follows the workflow described in [PYCAD's spine segmentation tutorial](https://github.com/amine0110/spine-segmentation-nnunet) (MIT). The data preparation code here is an independent implementation.
+**Approach:** nnU-Net's standard workflow, applied to the TotalSegmentator spine subset. Data preparation implemented independently.
 
 ## License
 
